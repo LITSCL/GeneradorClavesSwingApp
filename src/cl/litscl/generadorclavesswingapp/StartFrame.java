@@ -22,7 +22,6 @@ import java.util.concurrent.ThreadLocalRandom;
 import java.awt.event.ActionEvent;
 
 public class StartFrame extends JFrame {
-
 	private JPanel contentPane;
 	private JTextField textFieldClaveGenerada;
 	private JRadioButton rdbtn8;
